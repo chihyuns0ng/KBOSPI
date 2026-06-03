@@ -94,11 +94,11 @@ KBO 10개 구단을 대상으로 한 **모의 주식 투자 게임**입니다.
 - Chart.js
 - localStorage 기반 데이터 저장
 
-### 예정 (서버 연동)
+### 목표 (서버 연동)
 - **Backend**: Node.js + Express
 - **Database**: PostgreSQL
 - **Hosting**: Render
-- **크롤링**: 네이버 스포츠 (경기 결과 자동 수집)
+- **크롤링**: KBO 홈페이지, 네이버 스포츠 (경기 결과 자동 수집)
 - **스케줄러**: node-cron (매일 자정 자동 실행)
 
 ---
